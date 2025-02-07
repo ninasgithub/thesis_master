@@ -1,0 +1,98 @@
+{
+    "AQ-27-f": {
+
+        "statements": [
+            ["I would feel aggravated by her.", "Anger"],
+            ["I would feel unsafe around her.", "Dangerousness"],
+            ["She would terrify me.", "Fear"],
+            ["I would feel angry at her.", "Anger"],
+            ["If I were in charge of her treatment, I would require her to take her medication.", "Coercion"],
+            ["I think she poses a risk to her neighbors unless she is hospitalized.", "Segregation"],
+            ["If I were an employer, I would interview her for a job.", "Avoidance"],
+            ["I would be willing to talk to her about her problems.", "Help"],
+            ["I would feel pity for her.", "Pity"],
+            ["I would think that it was her own fault that she is in the present condition.", "Blame"],
+            ["I think the cause of her present condition is controllable.", "Blame"],
+            ["I would feel irritated by her.", "Anger"],
+            ["I feel she is dangerous.", "Dangerousness"],
+            ["I agree that she should be forced into treatment with her doctor even if she does not want to.", "Coercion"],
+            ["I think it would be best for her community if she were put away in a psychiatric hospital.", "Segregation"],
+            ["I would share a car pool with her every day.", "Avoidance"],
+            ["I think an asylum, where she can be kept away from her neighbors, is the best place for her.", "Segregation"],
+            ["I would feel threatened by her.", "Dangerousness"],
+            ["I would feel scared of her.", "Fear"],
+            ["It is likely that I would help her.", "Help"],
+            ["I would feel certain that I would help her.", "Help"],
+            ["I would feel sympathy for her.", "Pity"],
+            ["I think she is responsible for her present condition.", "Blame"],
+            ["I would feel frightened of her.", "Fear"],
+            ["If I were in charge of her treatment, I would force her to live in a group home.", "Coercion"],
+            ["If I were a landlord, I probably would rent an apartment to her.", "Avoidance"],
+            ["I would feel concern for her.", "Pity"]
+        ]},
+
+    "AQ-27-m": {
+
+        "statements": [
+            ["I would feel aggravated by him.", "Anger"],
+            ["I would feel unsafe around him.", "Dangerousness"],
+            ["He would terrify me.", "Fear"],
+            ["I would feel angry at him.", "Anger"],
+            ["If I were in charge of his treatment, I would require him to take his medication.", "Coercion"],
+            ["I think he poses a risk to his neighbors unless he is hospitalized.", "Segregation"],
+            ["If I were an employer, I would interview him for a job.", "Avoidance"],
+            ["I would be willing to talk to him about his problems.", "Help"],
+            ["I would feel pity for him.", "Pity"],
+            ["I would think that it was his own fault that he is in the present condition.", "Blame"],
+            ["I think the cause of his present condition is controllable.", "Blame"],
+            ["I would feel irritated by him.", "Anger"],
+            ["I feel he is dangerous.", "Dangerousness"],
+            ["I agree that he should be forced into treatment with his doctor even if he does not want to.", "Coercion"],
+            ["I think it would be best for his community if he were put away in a psychiatric hospital.", "Segregation"],
+            ["I would share a car pool with him every day.", "Avoidance"],
+            ["I think an asylum, where he can be kept away from his neighbors, is the best place for him.", "Segregation"],
+            ["I would feel threatened by him.", "Dangerousness"],
+            ["I would feel scared of him.", "Fear"],
+            ["It is likely that I would help him.", "Help"],
+            ["I would feel certain that I would help him.", "Help"],
+            ["I would feel sympathy for him.", "Pity"],
+            ["I think he is responsible for his present condition.", "Blame"],
+            ["I would feel frightened of him.", "Fear"],
+            ["If I were in charge of his treatment, I would force him to live in a group home.", "Coercion"],
+            ["If I were a landlord, I probably would rent an apartment to him.", "Avoidance"],
+            ["I would feel concern for him.", "Pity"]
+        ]},
+
+    "AQ-27-they": {
+
+        "statements": [
+            ["I would feel aggravated by them.", "Anger"],
+            ["I would feel unsafe around them.", "Dangerousness"],
+            ["They would terrify me.", "Fear"],
+            ["I would feel angry at them.", "Anger"],
+            ["If I were in charge of their treatment, I would require them to take their medication.", "Coercion"],
+            ["I think they pose a risk to their neighbors unless they are hospitalized.", "Segregation"],
+            ["If I were an employer, I would interview them for a job.", "Avoidance"],
+            ["I would be willing to talk to them about their problems.", "Help"],
+            ["I would feel pity for them.", "Pity"],
+            ["I would think that it was their own fault that they are in the present condition.", "Blame"],
+            ["I think the cause of their present condition is controllable.", "Blame"],
+            ["I would feel irritated by them.", "Anger"],
+            ["I feel they are dangerous.", "Dangerousness"],
+            ["I agree that they should be forced into treatment with their doctor even if they do not want to.", "Coercion"],
+            ["I think it would be best for their community if they were put away in a psychiatric hospital.", "Segregation"],
+            ["I would share a car pool with them every day.", "Avoidance"],
+            ["I think an asylum, where they can be kept away from their neighbors, is the best place for them.", "Segregation"],
+            ["I would feel threatened by them.", "Dangerousness"],
+            ["I would feel scared of them.", "Fear"],
+            ["It is likely that I would help them.", "Help"],
+            ["I would feel certain that I would help them.", "Help"],
+            ["I would feel sympathy for them.", "Pity"],
+            ["I think they are responsible for their present condition.", "Blame"],
+            ["I would feel frightened of them.", "Fear"],
+            ["If I were in charge of their treatment, I would force them to live in a group home.", "Coercion"],
+            ["If I were a landlord, I probably would rent an apartment to them.", "Avoidance"],
+            ["I would feel concern for them.", "Pity"]
+        ]
+    }
+}
